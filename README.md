@@ -37,6 +37,7 @@ These are the MVC-like frameworks that developers use to create applications fro
 
 * [Symfony] (http://symfony.com/) Feeds: [RSS] (http://feeds.feedburner.com/symfony/blog)
 * [Zend Framework] (http://framework.zend.com/) Feeds: [RSS] (http://feeds.feedburner.com/ZendDeveloperZone)
+* [Lithium] (http://lithify.me/) Feeds: [RSS] (http://dev.lithify.me/lithium/wiki/home.rss)
 
 These are the leading content frameworks that developers use to quickly build-out content websites:
 
